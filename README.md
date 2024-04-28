@@ -4,9 +4,11 @@
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:** Quartus prime
+**SOFTWARE REQUIRED:** 
 
-**THEORY**
+Quartus prime
+
+**THEORY:**
 
 **Encoder 8 To 3**
 
@@ -16,7 +18,7 @@ The 8 to 3 line Encoder is also known as Octal to Binary Encoder. In 8 to 3 line
 
 Figure 01  Block Diagram of Encoder 8 * 3
 
-**Truth Table**
+**Truth Table:**
 
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/35496b14-ae6e-4cd1-9abd-d6736b576575)
 
@@ -34,23 +36,44 @@ Logical circuit of the above expressions is given below:
 
 Figure 02  Encoder 8 * 3
 
-**Procedure**
+**Procedure:**
 
-/* write all the steps invloved */
 
-**PROGRAM**
+1.Type the program in Quartus software.
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
-*/
+2.Compile and run the program.
+
+
+3.Generate the RTL schematic and save the logic diagram.
+
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+
+5.For different input combinations generate the timing diagram.
+
+
+**PROGRAM:**
+```
+Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
+Developed by: YOGESH RAO S D
+RegisterNumber:212222110055
+```
+![exp 5 program update](https://github.com/23003250/ENCODER8TO3DATAFLOW/assets/139331462/b2a06568-bdd4-42d0-9a18-524225b3d688)
+
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![exp 5 rtl logic](https://github.com/23003250/ENCODER8TO3DATAFLOW/assets/139331462/c8cb2265-4505-4f56-a177-9e8f038f47ae)
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+![exp 5 tt](https://github.com/23003250/ENCODER8TO3DATAFLOW/assets/139331462/d853a781-f957-440c-84f7-bf062b963455)
+
 
 **RESULTS**
 
+implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed succesfully.
 
 
 
